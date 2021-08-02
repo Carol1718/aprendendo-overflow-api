@@ -1,0 +1,20 @@
+{
+  "name": "senai_overflow_api",
+  "version": "1.0.0",
+  "description": "Projeto 1 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "senai",
+    "overflow",
+    "api"
+  ],
+  "author": "Carol",
+  "license": "ISC",
+  "dependencies": {
+    "expess": "0.0.1-security",
+    "nodemon": "^2.0.12"
+  }
+}
